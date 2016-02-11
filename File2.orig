@@ -1,0 +1,13 @@
+Test1
+Test2
+Test3
+Test4
+<<<<<<< HEAD
+Test4
+=======
+Test4.6
+>>>>>>> origin/master
+Test5
+Test5.5
+Test6
+Test7
